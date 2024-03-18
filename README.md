@@ -7,7 +7,6 @@
 - Port 8080
 
 ## Project setup
-```RUN npm ci```
 ```RUN bash run.sh```
 
 ## Depends on
